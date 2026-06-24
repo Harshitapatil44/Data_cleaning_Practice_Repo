@@ -26,3 +26,26 @@ This repository tracks my hands-on practice across essential data cleaning tasks
 │   ├── 📄 cleaning_script.ipynb  # Step-by-step cleaning operations
 │   └── 📄 README.md              # Short note on what was broken and how it was fixed
 └── 📄 README.md                  # Main repository landing page
+
+
+> ### 🔄 Project Status: Actively Maintained & Continuously Updated
+> This repository is a long-term project. I am constantly working on new datasets and tackling different data corruption issues. **New cleaning scripts, practice codes, and datasets will be added here regularly.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
